@@ -11,7 +11,7 @@ function cambiar ()
 {
 	elemento= document.getElementById('otra');
 	if (elemento.src.match("otra.jpg"))
-	{elemento.src="imagenes/reflexion.jpg";}
+	{elemento.src="imagenes/reflexion.png";}
 	else
 	{elemento.src="imagenes/otra.jpg";}
 }	
